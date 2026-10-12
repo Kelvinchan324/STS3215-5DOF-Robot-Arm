@@ -1,0 +1,95 @@
+{
+  "format_version": 1,
+  "source": "new_robot_arm.STEP",
+  "units": {
+    "length": "mm",
+    "angle": "rad"
+  },
+  "reference_pose": "The imported STEP assembly pose is q = [0, 0, 0, 0, 0]. Confirm that this pose matches the calibrated servo home before commanding hardware.",
+  "encoder": {
+    "counts_per_revolution": 4096,
+    "radians_per_count": 0.0015339807878856412,
+    "angle_formula": "q_rad = direction * (raw - home_position) * 2*pi/4096 + zero_offset_rad"
+  },
+  "joints": [
+    {
+      "name": "base_yaw",
+      "servo_id": 1,
+      "cad_occurrence": "NAUO1",
+      "point_mm": [-17.7264501, -35.4651105, -27.9920143],
+      "axis_unit": [0.0, 1.0, 0.0],
+      "home_position": 2042,
+      "position_min": 1993,
+      "position_max": 2048,
+      "direction": 1
+    },
+    {
+      "name": "shoulder_pitch",
+      "servo_id": 2,
+      "cad_occurrence": "NAUO19",
+      "point_mm": [40.9715946, 29.6348895, 4.2684719],
+      "axis_unit": [0.3769530071, 0.0, 0.9262323847],
+      "home_position": 3164,
+      "position_min": 2048,
+      "position_max": 3164,
+      "direction": 1
+    },
+    {
+      "name": "elbow_pitch",
+      "servo_id": 3,
+      "cad_occurrence": "NAUO12",
+      "point_mm": [81.7487195, 141.8777478, -11.7869588],
+      "axis_unit": [0.3769530071, 0.0, 0.9262323847],
+      "home_position": 1062,
+      "position_min": 1062,
+      "position_max": 2048,
+      "direction": 1
+    },
+    {
+      "name": "wrist_pitch",
+      "servo_id": 4,
+      "cad_occurrence": "NAUO27",
+      "point_mm": [-46.7502627, 210.1003195, 40.5088566],
+      "axis_unit": [0.3769530071, 0.0, 0.9262323847],
+      "home_position": 1957,
+      "position_min": 790,
+      "position_max": 3157,
+      "direction": 1
+    },
+    {
+      "name": "wrist_roll",
+      "servo_id": 5,
+      "cad_occurrence": "NAUO15",
+      "point_mm": [-117.5808015, 198.8143355, 69.3350831],
+      "axis_unit": [-0.9163070995, -0.1460023805, 0.3729136687],
+      "home_position": 2049,
+      "position_min": 820,
+      "position_max": 2974,
+      "direction": 1
+    }
+  ],
+  "measurements": {
+    "joint_reference_point_distances_mm": {
+      "base_to_shoulder": 93.4035,
+      "shoulder_to_elbow": 120.4949,
+      "elbow_to_wrist_pitch": 154.6,
+      "wrist_pitch_to_wrist_roll": 77.3
+    },
+    "common_normal_axis_distances_mm": {
+      "base_to_shoulder": 42.2073,
+      "shoulder_to_elbow": 120.4938,
+      "elbow_to_wrist_pitch": 154.6,
+      "wrist_pitch_to_wrist_roll": 0.0
+    },
+    "axis_twist_degrees": {
+      "base_to_shoulder": 90.0,
+      "shoulder_to_elbow": 0.0,
+      "elbow_to_wrist_pitch": 0.0,
+      "wrist_pitch_to_wrist_roll": 90.0
+    }
+  },
+  "tcp": {
+    "status": "unset",
+    "note": "Choose a tool centre point at the centre between the gripper jaws, then add its home-pose point and orientation. The STEP assembly has no explicit TCP marker."
+  }
+}

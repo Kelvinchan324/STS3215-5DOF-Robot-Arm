@@ -1,0 +1,5 @@
+{
+  "name": "block_placement",
+  "description": "Record the poses for picking up and placing a block.",
+  "steps": []
+}

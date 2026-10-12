@@ -1,0 +1,5770 @@
+{
+  "name": "test1",
+  "description": "",
+  "sampling_interval_seconds": 0.1,
+  "initial_position": {
+    "timestamp": "2026-10-08T10:18:04.258+08:00",
+    "positions_raw": {
+      "base_yaw": 2025,
+      "shoulder": 3080,
+      "elbow": 1048,
+      "wrist": 3177,
+      "gripper": 1001
+    },
+    "angles_degrees": {
+      "base_yaw": -2.021484375,
+      "shoulder": 90.703125,
+      "elbow": -87.890625,
+      "wrist": 99.228515625,
+      "gripper": 92.021484375
+    }
+  },
+  "steps": [
+    {
+      "timestamp": "2026-10-08T10:18:15.712+08:00",
+      "elapsed_seconds": 0.091,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:15.811+08:00",
+      "elapsed_seconds": 0.19,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:15.911+08:00",
+      "elapsed_seconds": 0.29,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:16.012+08:00",
+      "elapsed_seconds": 0.391,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:16.112+08:00",
+      "elapsed_seconds": 0.491,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:16.212+08:00",
+      "elapsed_seconds": 0.591,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:16.312+08:00",
+      "elapsed_seconds": 0.691,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:16.412+08:00",
+      "elapsed_seconds": 0.791,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:16.512+08:00",
+      "elapsed_seconds": 0.891,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:16.614+08:00",
+      "elapsed_seconds": 0.993,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:16.715+08:00",
+      "elapsed_seconds": 1.094,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:16.814+08:00",
+      "elapsed_seconds": 1.193,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:16.920+08:00",
+      "elapsed_seconds": 1.299,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:17.024+08:00",
+      "elapsed_seconds": 1.403,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:17.122+08:00",
+      "elapsed_seconds": 1.501,
+      "positions": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2025,
+        "shoulder": 3080,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.021484375,
+        "shoulder": 90.703125,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:17.221+08:00",
+      "elapsed_seconds": 1.6,
+      "positions": {
+        "base_yaw": 2026,
+        "shoulder": 3079,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2026,
+        "shoulder": 3079,
+        "elbow": 1048,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -1.93359375,
+        "shoulder": 90.615234375,
+        "elbow": -87.890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:17.319+08:00",
+      "elapsed_seconds": 1.698,
+      "positions": {
+        "base_yaw": 2024,
+        "shoulder": 3079,
+        "elbow": 1051,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2024,
+        "shoulder": 3079,
+        "elbow": 1051,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.109375,
+        "shoulder": 90.615234375,
+        "elbow": -87.626953125,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:17.419+08:00",
+      "elapsed_seconds": 1.798,
+      "positions": {
+        "base_yaw": 2026,
+        "shoulder": 3064,
+        "elbow": 1087,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2026,
+        "shoulder": 3064,
+        "elbow": 1087,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -1.93359375,
+        "shoulder": 89.296875,
+        "elbow": -84.462890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:17.519+08:00",
+      "elapsed_seconds": 1.898,
+      "positions": {
+        "base_yaw": 2027,
+        "shoulder": 3052,
+        "elbow": 1157,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2027,
+        "shoulder": 3052,
+        "elbow": 1157,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -1.845703125,
+        "shoulder": 88.2421875,
+        "elbow": -78.310546875,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:17.619+08:00",
+      "elapsed_seconds": 1.998,
+      "positions": {
+        "base_yaw": 2022,
+        "shoulder": 2997,
+        "elbow": 1248,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2022,
+        "shoulder": 2997,
+        "elbow": 1248,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.28515625,
+        "shoulder": 83.408203125,
+        "elbow": -70.3125,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:17.719+08:00",
+      "elapsed_seconds": 2.098,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 2908,
+        "elbow": 1343,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 2908,
+        "elbow": 1343,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": 75.5859375,
+        "elbow": -61.962890625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:17.819+08:00",
+      "elapsed_seconds": 2.198,
+      "positions": {
+        "base_yaw": 2015,
+        "shoulder": 2817,
+        "elbow": 1419,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2015,
+        "shoulder": 2817,
+        "elbow": 1419,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -2.900390625,
+        "shoulder": 67.587890625,
+        "elbow": -55.283203125,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:17.919+08:00",
+      "elapsed_seconds": 2.298,
+      "positions": {
+        "base_yaw": 2004,
+        "shoulder": 2738,
+        "elbow": 1468,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 2004,
+        "shoulder": 2738,
+        "elbow": 1468,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -3.8671875,
+        "shoulder": 60.64453125,
+        "elbow": -50.9765625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:18.019+08:00",
+      "elapsed_seconds": 2.398,
+      "positions": {
+        "base_yaw": 1963,
+        "shoulder": 2665,
+        "elbow": 1487,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1963,
+        "shoulder": 2665,
+        "elbow": 1487,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -7.470703125,
+        "shoulder": 54.228515625,
+        "elbow": -49.306640625,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:18.119+08:00",
+      "elapsed_seconds": 2.498,
+      "positions": {
+        "base_yaw": 1920,
+        "shoulder": 2602,
+        "elbow": 1488,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1920,
+        "shoulder": 2602,
+        "elbow": 1488,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -11.25,
+        "shoulder": 48.69140625,
+        "elbow": -49.21875,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:18.220+08:00",
+      "elapsed_seconds": 2.599,
+      "positions": {
+        "base_yaw": 1880,
+        "shoulder": 2566,
+        "elbow": 1490,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1880,
+        "shoulder": 2566,
+        "elbow": 1490,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -14.765625,
+        "shoulder": 45.52734375,
+        "elbow": -49.04296875,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:18.319+08:00",
+      "elapsed_seconds": 2.698,
+      "positions": {
+        "base_yaw": 1836,
+        "shoulder": 2558,
+        "elbow": 1489,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1836,
+        "shoulder": 2558,
+        "elbow": 1489,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -18.6328125,
+        "shoulder": 44.82421875,
+        "elbow": -49.130859375,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:18.419+08:00",
+      "elapsed_seconds": 2.798,
+      "positions": {
+        "base_yaw": 1782,
+        "shoulder": 2545,
+        "elbow": 1489,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1782,
+        "shoulder": 2545,
+        "elbow": 1489,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -23.37890625,
+        "shoulder": 43.681640625,
+        "elbow": -49.130859375,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:18.520+08:00",
+      "elapsed_seconds": 2.899,
+      "positions": {
+        "base_yaw": 1730,
+        "shoulder": 2515,
+        "elbow": 1489,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1730,
+        "shoulder": 2515,
+        "elbow": 1489,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -27.94921875,
+        "shoulder": 41.044921875,
+        "elbow": -49.130859375,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:18.620+08:00",
+      "elapsed_seconds": 2.999,
+      "positions": {
+        "base_yaw": 1702,
+        "shoulder": 2486,
+        "elbow": 1492,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1702,
+        "shoulder": 2486,
+        "elbow": 1492,
+        "wrist": 3177,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -30.41015625,
+        "shoulder": 38.49609375,
+        "elbow": -48.8671875,
+        "wrist": 99.228515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:18.720+08:00",
+      "elapsed_seconds": 3.099,
+      "positions": {
+        "base_yaw": 1697,
+        "shoulder": 2478,
+        "elbow": 1521,
+        "wrist": 3176,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1697,
+        "shoulder": 2478,
+        "elbow": 1521,
+        "wrist": 3176,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -30.849609375,
+        "shoulder": 37.79296875,
+        "elbow": -46.318359375,
+        "wrist": 99.140625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:18.820+08:00",
+      "elapsed_seconds": 3.199,
+      "positions": {
+        "base_yaw": 1695,
+        "shoulder": 2456,
+        "elbow": 1575,
+        "wrist": 3161,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1695,
+        "shoulder": 2456,
+        "elbow": 1575,
+        "wrist": 3161,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -31.025390625,
+        "shoulder": 35.859375,
+        "elbow": -41.572265625,
+        "wrist": 97.822265625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:18.920+08:00",
+      "elapsed_seconds": 3.299,
+      "positions": {
+        "base_yaw": 1675,
+        "shoulder": 2408,
+        "elbow": 1644,
+        "wrist": 3122,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1675,
+        "shoulder": 2408,
+        "elbow": 1644,
+        "wrist": 3122,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -32.783203125,
+        "shoulder": 31.640625,
+        "elbow": -35.5078125,
+        "wrist": 94.39453125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:19.020+08:00",
+      "elapsed_seconds": 3.399,
+      "positions": {
+        "base_yaw": 1650,
+        "shoulder": 2359,
+        "elbow": 1722,
+        "wrist": 3061,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1650,
+        "shoulder": 2359,
+        "elbow": 1722,
+        "wrist": 3061,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -34.98046875,
+        "shoulder": 27.333984375,
+        "elbow": -28.65234375,
+        "wrist": 89.033203125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:19.120+08:00",
+      "elapsed_seconds": 3.499,
+      "positions": {
+        "base_yaw": 1628,
+        "shoulder": 2303,
+        "elbow": 1789,
+        "wrist": 2983,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1628,
+        "shoulder": 2303,
+        "elbow": 1789,
+        "wrist": 2983,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -36.9140625,
+        "shoulder": 22.412109375,
+        "elbow": -22.763671875,
+        "wrist": 82.177734375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:19.220+08:00",
+      "elapsed_seconds": 3.599,
+      "positions": {
+        "base_yaw": 1585,
+        "shoulder": 2257,
+        "elbow": 1837,
+        "wrist": 2888,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1585,
+        "shoulder": 2257,
+        "elbow": 1837,
+        "wrist": 2888,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -40.693359375,
+        "shoulder": 18.369140625,
+        "elbow": -18.544921875,
+        "wrist": 73.828125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:19.320+08:00",
+      "elapsed_seconds": 3.699,
+      "positions": {
+        "base_yaw": 1511,
+        "shoulder": 2222,
+        "elbow": 1857,
+        "wrist": 2780,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1511,
+        "shoulder": 2222,
+        "elbow": 1857,
+        "wrist": 2780,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -47.197265625,
+        "shoulder": 15.29296875,
+        "elbow": -16.787109375,
+        "wrist": 64.3359375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:19.420+08:00",
+      "elapsed_seconds": 3.799,
+      "positions": {
+        "base_yaw": 1421,
+        "shoulder": 2197,
+        "elbow": 1857,
+        "wrist": 2674,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1421,
+        "shoulder": 2197,
+        "elbow": 1857,
+        "wrist": 2674,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -55.107421875,
+        "shoulder": 13.095703125,
+        "elbow": -16.787109375,
+        "wrist": 55.01953125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:19.520+08:00",
+      "elapsed_seconds": 3.899,
+      "positions": {
+        "base_yaw": 1355,
+        "shoulder": 2175,
+        "elbow": 1857,
+        "wrist": 2579,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1355,
+        "shoulder": 2175,
+        "elbow": 1857,
+        "wrist": 2579,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -60.908203125,
+        "shoulder": 11.162109375,
+        "elbow": -16.787109375,
+        "wrist": 46.669921875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:19.620+08:00",
+      "elapsed_seconds": 3.999,
+      "positions": {
+        "base_yaw": 1342,
+        "shoulder": 2147,
+        "elbow": 1857,
+        "wrist": 2492,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1342,
+        "shoulder": 2147,
+        "elbow": 1857,
+        "wrist": 2492,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.05078125,
+        "shoulder": 8.701171875,
+        "elbow": -16.787109375,
+        "wrist": 39.0234375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:19.720+08:00",
+      "elapsed_seconds": 4.099,
+      "positions": {
+        "base_yaw": 1342,
+        "shoulder": 2110,
+        "elbow": 1857,
+        "wrist": 2407,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1342,
+        "shoulder": 2110,
+        "elbow": 1857,
+        "wrist": 2407,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.05078125,
+        "shoulder": 5.44921875,
+        "elbow": -16.787109375,
+        "wrist": 31.552734375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:19.821+08:00",
+      "elapsed_seconds": 4.2,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 2068,
+        "elbow": 1859,
+        "wrist": 2323,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 2068,
+        "elbow": 1859,
+        "wrist": 2323,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": 1.7578125,
+        "elbow": -16.611328125,
+        "wrist": 24.169921875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:19.921+08:00",
+      "elapsed_seconds": 4.3,
+      "positions": {
+        "base_yaw": 1334,
+        "shoulder": 2046,
+        "elbow": 1859,
+        "wrist": 2248,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1334,
+        "shoulder": 2046,
+        "elbow": 1859,
+        "wrist": 2248,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.75390625,
+        "shoulder": -0.17578125,
+        "elbow": -16.611328125,
+        "wrist": 17.578125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:20.021+08:00",
+      "elapsed_seconds": 4.4,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 2045,
+        "elbow": 1858,
+        "wrist": 2186,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 2045,
+        "elbow": 1858,
+        "wrist": 2186,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -0.263671875,
+        "elbow": -16.69921875,
+        "wrist": 12.12890625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:20.121+08:00",
+      "elapsed_seconds": 4.5,
+      "positions": {
+        "base_yaw": 1340,
+        "shoulder": 2040,
+        "elbow": 1858,
+        "wrist": 2148,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1340,
+        "shoulder": 2040,
+        "elbow": 1858,
+        "wrist": 2148,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.2265625,
+        "shoulder": -0.703125,
+        "elbow": -16.69921875,
+        "wrist": 8.7890625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:20.221+08:00",
+      "elapsed_seconds": 4.6,
+      "positions": {
+        "base_yaw": 1334,
+        "shoulder": 2006,
+        "elbow": 1857,
+        "wrist": 2130,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1334,
+        "shoulder": 2006,
+        "elbow": 1857,
+        "wrist": 2130,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.75390625,
+        "shoulder": -3.69140625,
+        "elbow": -16.787109375,
+        "wrist": 7.20703125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:20.321+08:00",
+      "elapsed_seconds": 4.7,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1959,
+        "elbow": 1860,
+        "wrist": 2128,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1959,
+        "elbow": 1860,
+        "wrist": 2128,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -7.822265625,
+        "elbow": -16.5234375,
+        "wrist": 7.03125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:20.421+08:00",
+      "elapsed_seconds": 4.8,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1923,
+        "elbow": 1860,
+        "wrist": 2128,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1923,
+        "elbow": 1860,
+        "wrist": 2128,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -10.986328125,
+        "elbow": -16.5234375,
+        "wrist": 7.03125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:20.521+08:00",
+      "elapsed_seconds": 4.9,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1908,
+        "elbow": 1859,
+        "wrist": 2127,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1908,
+        "elbow": 1859,
+        "wrist": 2127,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -12.3046875,
+        "elbow": -16.611328125,
+        "wrist": 6.943359375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:20.621+08:00",
+      "elapsed_seconds": 5.0,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1918,
+        "elbow": 1867,
+        "wrist": 2111,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1918,
+        "elbow": 1867,
+        "wrist": 2111,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -11.42578125,
+        "elbow": -15.908203125,
+        "wrist": 5.537109375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:20.721+08:00",
+      "elapsed_seconds": 5.1,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1917,
+        "elbow": 1895,
+        "wrist": 2006,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1917,
+        "elbow": 1895,
+        "wrist": 2006,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -11.513671875,
+        "elbow": -13.447265625,
+        "wrist": -3.69140625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:20.821+08:00",
+      "elapsed_seconds": 5.2,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1922,
+        "elbow": 1953,
+        "wrist": 1817,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1922,
+        "elbow": 1953,
+        "wrist": 1817,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -11.07421875,
+        "elbow": -8.349609375,
+        "wrist": -20.302734375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:20.921+08:00",
+      "elapsed_seconds": 5.3,
+      "positions": {
+        "base_yaw": 1334,
+        "shoulder": 1922,
+        "elbow": 2040,
+        "wrist": 1591,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1334,
+        "shoulder": 1922,
+        "elbow": 2040,
+        "wrist": 1591,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.75390625,
+        "shoulder": -11.07421875,
+        "elbow": -0.703125,
+        "wrist": -40.166015625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:21.021+08:00",
+      "elapsed_seconds": 5.4,
+      "positions": {
+        "base_yaw": 1334,
+        "shoulder": 1904,
+        "elbow": 2136,
+        "wrist": 1388,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1334,
+        "shoulder": 1904,
+        "elbow": 2136,
+        "wrist": 1388,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.75390625,
+        "shoulder": -12.65625,
+        "elbow": 7.734375,
+        "wrist": -58.0078125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:21.123+08:00",
+      "elapsed_seconds": 5.502,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1879,
+        "elbow": 2199,
+        "wrist": 1253,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1879,
+        "elbow": 2199,
+        "wrist": 1253,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -14.853515625,
+        "elbow": 13.271484375,
+        "wrist": -69.873046875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:21.222+08:00",
+      "elapsed_seconds": 5.601,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1825,
+        "elbow": 2234,
+        "wrist": 1190,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1825,
+        "elbow": 2234,
+        "wrist": 1190,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -19.599609375,
+        "elbow": 16.34765625,
+        "wrist": -75.41015625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:21.322+08:00",
+      "elapsed_seconds": 5.701,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1771,
+        "elbow": 2253,
+        "wrist": 1187,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1771,
+        "elbow": 2253,
+        "wrist": 1187,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -24.345703125,
+        "elbow": 18.017578125,
+        "wrist": -75.673828125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:21.422+08:00",
+      "elapsed_seconds": 5.801,
+      "positions": {
+        "base_yaw": 1334,
+        "shoulder": 1710,
+        "elbow": 2278,
+        "wrist": 1172,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1334,
+        "shoulder": 1710,
+        "elbow": 2278,
+        "wrist": 1172,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.75390625,
+        "shoulder": -29.70703125,
+        "elbow": 20.21484375,
+        "wrist": -76.9921875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:21.522+08:00",
+      "elapsed_seconds": 5.902,
+      "positions": {
+        "base_yaw": 1340,
+        "shoulder": 1666,
+        "elbow": 2315,
+        "wrist": 1171,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1340,
+        "shoulder": 1666,
+        "elbow": 2315,
+        "wrist": 1171,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.2265625,
+        "shoulder": -33.57421875,
+        "elbow": 23.466796875,
+        "wrist": -77.080078125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:21.625+08:00",
+      "elapsed_seconds": 6.005,
+      "positions": {
+        "base_yaw": 1341,
+        "shoulder": 1646,
+        "elbow": 2340,
+        "wrist": 1169,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1341,
+        "shoulder": 1646,
+        "elbow": 2340,
+        "wrist": 1169,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.138671875,
+        "shoulder": -35.33203125,
+        "elbow": 25.6640625,
+        "wrist": -77.255859375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:21.725+08:00",
+      "elapsed_seconds": 6.105,
+      "positions": {
+        "base_yaw": 1341,
+        "shoulder": 1631,
+        "elbow": 2343,
+        "wrist": 1133,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1341,
+        "shoulder": 1631,
+        "elbow": 2343,
+        "wrist": 1133,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.138671875,
+        "shoulder": -36.650390625,
+        "elbow": 25.927734375,
+        "wrist": -80.419921875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:21.830+08:00",
+      "elapsed_seconds": 6.21,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 1625,
+        "elbow": 2345,
+        "wrist": 1086,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 1625,
+        "elbow": 2345,
+        "wrist": 1086,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": -37.177734375,
+        "elbow": 26.103515625,
+        "wrist": -84.55078125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:21.931+08:00",
+      "elapsed_seconds": 6.31,
+      "positions": {
+        "base_yaw": 1334,
+        "shoulder": 1624,
+        "elbow": 2345,
+        "wrist": 1090,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1334,
+        "shoulder": 1624,
+        "elbow": 2345,
+        "wrist": 1090,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.75390625,
+        "shoulder": -37.265625,
+        "elbow": 26.103515625,
+        "wrist": -84.19921875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:22.029+08:00",
+      "elapsed_seconds": 6.409,
+      "positions": {
+        "base_yaw": 1334,
+        "shoulder": 1603,
+        "elbow": 2345,
+        "wrist": 1100,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1334,
+        "shoulder": 1603,
+        "elbow": 2345,
+        "wrist": 1100,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.75390625,
+        "shoulder": -39.111328125,
+        "elbow": 26.103515625,
+        "wrist": -83.3203125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:22.129+08:00",
+      "elapsed_seconds": 6.509,
+      "positions": {
+        "base_yaw": 1340,
+        "shoulder": 1571,
+        "elbow": 2357,
+        "wrist": 1119,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1340,
+        "shoulder": 1571,
+        "elbow": 2357,
+        "wrist": 1119,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.2265625,
+        "shoulder": -41.923828125,
+        "elbow": 27.158203125,
+        "wrist": -81.650390625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:22.230+08:00",
+      "elapsed_seconds": 6.61,
+      "positions": {
+        "base_yaw": 1340,
+        "shoulder": 1565,
+        "elbow": 2383,
+        "wrist": 1111,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1340,
+        "shoulder": 1565,
+        "elbow": 2383,
+        "wrist": 1111,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.2265625,
+        "shoulder": -42.451171875,
+        "elbow": 29.443359375,
+        "wrist": -82.353515625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:22.328+08:00",
+      "elapsed_seconds": 6.708,
+      "positions": {
+        "base_yaw": 1341,
+        "shoulder": 1556,
+        "elbow": 2386,
+        "wrist": 1113,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1341,
+        "shoulder": 1556,
+        "elbow": 2386,
+        "wrist": 1113,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.138671875,
+        "shoulder": -43.2421875,
+        "elbow": 29.70703125,
+        "wrist": -82.177734375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:22.428+08:00",
+      "elapsed_seconds": 6.808,
+      "positions": {
+        "base_yaw": 1341,
+        "shoulder": 1555,
+        "elbow": 2385,
+        "wrist": 1114,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1341,
+        "shoulder": 1555,
+        "elbow": 2385,
+        "wrist": 1114,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.138671875,
+        "shoulder": -43.330078125,
+        "elbow": 29.619140625,
+        "wrist": -82.08984375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:22.528+08:00",
+      "elapsed_seconds": 6.908,
+      "positions": {
+        "base_yaw": 1341,
+        "shoulder": 1562,
+        "elbow": 2383,
+        "wrist": 1115,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1341,
+        "shoulder": 1562,
+        "elbow": 2383,
+        "wrist": 1115,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.138671875,
+        "shoulder": -42.71484375,
+        "elbow": 29.443359375,
+        "wrist": -82.001953125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:22.628+08:00",
+      "elapsed_seconds": 7.008,
+      "positions": {
+        "base_yaw": 1341,
+        "shoulder": 1566,
+        "elbow": 2375,
+        "wrist": 1123,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1341,
+        "shoulder": 1566,
+        "elbow": 2375,
+        "wrist": 1123,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.138671875,
+        "shoulder": -42.36328125,
+        "elbow": 28.740234375,
+        "wrist": -81.298828125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:22.728+08:00",
+      "elapsed_seconds": 7.108,
+      "positions": {
+        "base_yaw": 1340,
+        "shoulder": 1568,
+        "elbow": 2373,
+        "wrist": 1136,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1340,
+        "shoulder": 1568,
+        "elbow": 2373,
+        "wrist": 1136,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.2265625,
+        "shoulder": -42.1875,
+        "elbow": 28.564453125,
+        "wrist": -80.15625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:22.828+08:00",
+      "elapsed_seconds": 7.208,
+      "positions": {
+        "base_yaw": 1336,
+        "shoulder": 1580,
+        "elbow": 2361,
+        "wrist": 1171,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1336,
+        "shoulder": 1580,
+        "elbow": 2361,
+        "wrist": 1171,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.578125,
+        "shoulder": -41.1328125,
+        "elbow": 27.509765625,
+        "wrist": -77.080078125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:22.928+08:00",
+      "elapsed_seconds": 7.308,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 1601,
+        "elbow": 2313,
+        "wrist": 1197,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 1601,
+        "elbow": 2313,
+        "wrist": 1197,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": -39.287109375,
+        "elbow": 23.291015625,
+        "wrist": -74.794921875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:23.028+08:00",
+      "elapsed_seconds": 7.408,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 1633,
+        "elbow": 2277,
+        "wrist": 1228,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 1633,
+        "elbow": 2277,
+        "wrist": 1228,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": -36.474609375,
+        "elbow": 20.126953125,
+        "wrist": -72.0703125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:23.128+08:00",
+      "elapsed_seconds": 7.508,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 1644,
+        "elbow": 2257,
+        "wrist": 1234,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 1644,
+        "elbow": 2257,
+        "wrist": 1234,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": -35.5078125,
+        "elbow": 18.369140625,
+        "wrist": -71.54296875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:23.228+08:00",
+      "elapsed_seconds": 7.608,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 1644,
+        "elbow": 2255,
+        "wrist": 1234,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 1644,
+        "elbow": 2255,
+        "wrist": 1234,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": -35.5078125,
+        "elbow": 18.193359375,
+        "wrist": -71.54296875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:23.328+08:00",
+      "elapsed_seconds": 7.708,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 1644,
+        "elbow": 2255,
+        "wrist": 1234,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 1644,
+        "elbow": 2255,
+        "wrist": 1234,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": -35.5078125,
+        "elbow": 18.193359375,
+        "wrist": -71.54296875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:23.428+08:00",
+      "elapsed_seconds": 7.808,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 1645,
+        "elbow": 2255,
+        "wrist": 1234,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 1645,
+        "elbow": 2255,
+        "wrist": 1234,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": -35.419921875,
+        "elbow": 18.193359375,
+        "wrist": -71.54296875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:23.529+08:00",
+      "elapsed_seconds": 7.909,
+      "positions": {
+        "base_yaw": 1339,
+        "shoulder": 1663,
+        "elbow": 2251,
+        "wrist": 1231,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1339,
+        "shoulder": 1663,
+        "elbow": 2251,
+        "wrist": 1231,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.314453125,
+        "shoulder": -33.837890625,
+        "elbow": 17.841796875,
+        "wrist": -71.806640625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:23.629+08:00",
+      "elapsed_seconds": 8.009,
+      "positions": {
+        "base_yaw": 1338,
+        "shoulder": 1697,
+        "elbow": 2220,
+        "wrist": 1236,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1338,
+        "shoulder": 1697,
+        "elbow": 2220,
+        "wrist": 1236,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.40234375,
+        "shoulder": -30.849609375,
+        "elbow": 15.1171875,
+        "wrist": -71.3671875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:23.729+08:00",
+      "elapsed_seconds": 8.109,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 1722,
+        "elbow": 2170,
+        "wrist": 1241,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 1722,
+        "elbow": 2170,
+        "wrist": 1241,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": -28.65234375,
+        "elbow": 10.72265625,
+        "wrist": -70.927734375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:23.829+08:00",
+      "elapsed_seconds": 8.209,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1758,
+        "elbow": 2127,
+        "wrist": 1287,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1758,
+        "elbow": 2127,
+        "wrist": 1287,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -25.48828125,
+        "elbow": 6.943359375,
+        "wrist": -66.884765625,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:23.929+08:00",
+      "elapsed_seconds": 8.309,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1788,
+        "elbow": 2067,
+        "wrist": 1332,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1788,
+        "elbow": 2067,
+        "wrist": 1332,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -22.8515625,
+        "elbow": 1.669921875,
+        "wrist": -62.9296875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:24.029+08:00",
+      "elapsed_seconds": 8.409,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1835,
+        "elbow": 2025,
+        "wrist": 1360,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1835,
+        "elbow": 2025,
+        "wrist": 1360,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -18.720703125,
+        "elbow": -2.021484375,
+        "wrist": -60.46875,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:24.129+08:00",
+      "elapsed_seconds": 8.509,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1847,
+        "elbow": 2010,
+        "wrist": 1355,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1847,
+        "elbow": 2010,
+        "wrist": 1355,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -17.666015625,
+        "elbow": -3.33984375,
+        "wrist": -60.908203125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:24.229+08:00",
+      "elapsed_seconds": 8.609,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1842,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1842,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -18.10546875,
+        "elbow": -3.33984375,
+        "wrist": -61.083984375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:24.329+08:00",
+      "elapsed_seconds": 8.709,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1848,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1848,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -17.578125,
+        "elbow": -3.33984375,
+        "wrist": -61.083984375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:24.429+08:00",
+      "elapsed_seconds": 8.809,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1358,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1358,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.28125,
+        "elbow": -3.33984375,
+        "wrist": -60.64453125,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:24.529+08:00",
+      "elapsed_seconds": 8.909,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -18.28125,
+        "elbow": -3.33984375,
+        "wrist": -61.083984375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:24.629+08:00",
+      "elapsed_seconds": 9.009,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -18.28125,
+        "elbow": -3.33984375,
+        "wrist": -61.083984375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:24.729+08:00",
+      "elapsed_seconds": 9.109,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1001
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1001
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -18.28125,
+        "elbow": -3.33984375,
+        "wrist": -61.083984375,
+        "gripper": 92.021484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:24.829+08:00",
+      "elapsed_seconds": 9.209,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1002
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1002
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -18.28125,
+        "elbow": -3.33984375,
+        "wrist": -61.083984375,
+        "gripper": 91.93359375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:24.930+08:00",
+      "elapsed_seconds": 9.31,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1002
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1002
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.28125,
+        "elbow": -3.33984375,
+        "wrist": -61.083984375,
+        "gripper": 91.93359375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:25.030+08:00",
+      "elapsed_seconds": 9.41,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1002
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1002
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.28125,
+        "elbow": -3.33984375,
+        "wrist": -61.083984375,
+        "gripper": 91.93359375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:25.131+08:00",
+      "elapsed_seconds": 9.511,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1003
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1353,
+        "gripper": 1003
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.28125,
+        "elbow": -3.33984375,
+        "wrist": -61.083984375,
+        "gripper": 91.845703125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:25.230+08:00",
+      "elapsed_seconds": 9.61,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1354,
+        "gripper": 1004
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1354,
+        "gripper": 1004
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.28125,
+        "elbow": -3.33984375,
+        "wrist": -60.99609375,
+        "gripper": 91.7578125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:25.330+08:00",
+      "elapsed_seconds": 9.71,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1354,
+        "gripper": 1004
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1840,
+        "elbow": 2010,
+        "wrist": 1354,
+        "gripper": 1004
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.28125,
+        "elbow": -3.33984375,
+        "wrist": -60.99609375,
+        "gripper": 91.7578125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:25.430+08:00",
+      "elapsed_seconds": 9.81,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1841,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1006
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1841,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1006
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.193359375,
+        "elbow": -3.427734375,
+        "wrist": -60.1171875,
+        "gripper": 91.58203125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:25.530+08:00",
+      "elapsed_seconds": 9.91,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1844,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1034
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1844,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1034
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.9296875,
+        "elbow": -3.427734375,
+        "wrist": -60.1171875,
+        "gripper": 89.12109375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:25.630+08:00",
+      "elapsed_seconds": 10.01,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1844,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1079
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1844,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1079
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.9296875,
+        "elbow": -3.427734375,
+        "wrist": -60.1171875,
+        "gripper": 85.166015625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:25.730+08:00",
+      "elapsed_seconds": 10.11,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1844,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1133
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1844,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1133
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.9296875,
+        "elbow": -3.427734375,
+        "wrist": -60.1171875,
+        "gripper": 80.419921875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:25.831+08:00",
+      "elapsed_seconds": 10.211,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1844,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1193
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1844,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1193
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.9296875,
+        "elbow": -3.427734375,
+        "wrist": -60.1171875,
+        "gripper": 75.146484375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:25.931+08:00",
+      "elapsed_seconds": 10.311,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1844,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1255
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1844,
+        "elbow": 2009,
+        "wrist": 1364,
+        "gripper": 1255
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.9296875,
+        "elbow": -3.427734375,
+        "wrist": -60.1171875,
+        "gripper": 69.697265625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:26.031+08:00",
+      "elapsed_seconds": 10.411,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1843,
+        "elbow": 2009,
+        "wrist": 1360,
+        "gripper": 1323
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1843,
+        "elbow": 2009,
+        "wrist": 1360,
+        "gripper": 1323
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.017578125,
+        "elbow": -3.427734375,
+        "wrist": -60.46875,
+        "gripper": 63.720703125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:26.135+08:00",
+      "elapsed_seconds": 10.515,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1842,
+        "elbow": 2009,
+        "wrist": 1357,
+        "gripper": 1398
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1842,
+        "elbow": 2009,
+        "wrist": 1357,
+        "gripper": 1398
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.10546875,
+        "elbow": -3.427734375,
+        "wrist": -60.732421875,
+        "gripper": 57.12890625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:26.236+08:00",
+      "elapsed_seconds": 10.616,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1842,
+        "elbow": 2009,
+        "wrist": 1355,
+        "gripper": 1477
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1842,
+        "elbow": 2009,
+        "wrist": 1355,
+        "gripper": 1477
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.10546875,
+        "elbow": -3.427734375,
+        "wrist": -60.908203125,
+        "gripper": 50.185546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:26.336+08:00",
+      "elapsed_seconds": 10.716,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1842,
+        "elbow": 2006,
+        "wrist": 1355,
+        "gripper": 1555
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1842,
+        "elbow": 2006,
+        "wrist": 1355,
+        "gripper": 1555
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -18.10546875,
+        "elbow": -3.69140625,
+        "wrist": -60.908203125,
+        "gripper": 43.330078125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:26.436+08:00",
+      "elapsed_seconds": 10.816,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1845,
+        "elbow": 2006,
+        "wrist": 1355,
+        "gripper": 1630
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1845,
+        "elbow": 2006,
+        "wrist": 1355,
+        "gripper": 1630
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.841796875,
+        "elbow": -3.69140625,
+        "wrist": -60.908203125,
+        "gripper": 36.73828125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:26.536+08:00",
+      "elapsed_seconds": 10.916,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1847,
+        "elbow": 2006,
+        "wrist": 1355,
+        "gripper": 1704
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1847,
+        "elbow": 2006,
+        "wrist": 1355,
+        "gripper": 1704
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -17.666015625,
+        "elbow": -3.69140625,
+        "wrist": -60.908203125,
+        "gripper": 30.234375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:26.637+08:00",
+      "elapsed_seconds": 11.017,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1847,
+        "elbow": 2005,
+        "wrist": 1355,
+        "gripper": 1776
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1847,
+        "elbow": 2005,
+        "wrist": 1355,
+        "gripper": 1776
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -17.666015625,
+        "elbow": -3.779296875,
+        "wrist": -60.908203125,
+        "gripper": 23.90625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:26.738+08:00",
+      "elapsed_seconds": 11.118,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1847,
+        "elbow": 2005,
+        "wrist": 1355,
+        "gripper": 1848
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1847,
+        "elbow": 2005,
+        "wrist": 1355,
+        "gripper": 1848
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -17.666015625,
+        "elbow": -3.779296875,
+        "wrist": -60.908203125,
+        "gripper": 17.578125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:26.856+08:00",
+      "elapsed_seconds": 11.236,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1847,
+        "elbow": 2005,
+        "wrist": 1355,
+        "gripper": 1926
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1847,
+        "elbow": 2005,
+        "wrist": 1355,
+        "gripper": 1926
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -17.666015625,
+        "elbow": -3.779296875,
+        "wrist": -60.908203125,
+        "gripper": 10.72265625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:26.963+08:00",
+      "elapsed_seconds": 11.343,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1846,
+        "elbow": 2005,
+        "wrist": 1355,
+        "gripper": 1969
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1846,
+        "elbow": 2005,
+        "wrist": 1355,
+        "gripper": 1969
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -17.75390625,
+        "elbow": -3.779296875,
+        "wrist": -60.908203125,
+        "gripper": 6.943359375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:27.065+08:00",
+      "elapsed_seconds": 11.445,
+      "positions": {
+        "base_yaw": 1332,
+        "shoulder": 1845,
+        "elbow": 2005,
+        "wrist": 1355,
+        "gripper": 1980
+      },
+      "positions_raw": {
+        "base_yaw": 1332,
+        "shoulder": 1845,
+        "elbow": 2005,
+        "wrist": 1355,
+        "gripper": 1980
+      },
+      "angles_degrees": {
+        "base_yaw": -62.9296875,
+        "shoulder": -17.841796875,
+        "elbow": -3.779296875,
+        "wrist": -60.908203125,
+        "gripper": 5.9765625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:27.163+08:00",
+      "elapsed_seconds": 11.543,
+      "positions": {
+        "base_yaw": 1340,
+        "shoulder": 1847,
+        "elbow": 2006,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "positions_raw": {
+        "base_yaw": 1340,
+        "shoulder": 1847,
+        "elbow": 2006,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "angles_degrees": {
+        "base_yaw": -62.2265625,
+        "shoulder": -17.666015625,
+        "elbow": -3.69140625,
+        "wrist": -60.99609375,
+        "gripper": 5.9765625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:27.265+08:00",
+      "elapsed_seconds": 11.645,
+      "positions": {
+        "base_yaw": 1341,
+        "shoulder": 1847,
+        "elbow": 2007,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "positions_raw": {
+        "base_yaw": 1341,
+        "shoulder": 1847,
+        "elbow": 2007,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "angles_degrees": {
+        "base_yaw": -62.138671875,
+        "shoulder": -17.666015625,
+        "elbow": -3.603515625,
+        "wrist": -60.99609375,
+        "gripper": 5.9765625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:27.365+08:00",
+      "elapsed_seconds": 11.745,
+      "positions": {
+        "base_yaw": 1341,
+        "shoulder": 1845,
+        "elbow": 2008,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "positions_raw": {
+        "base_yaw": 1341,
+        "shoulder": 1845,
+        "elbow": 2008,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "angles_degrees": {
+        "base_yaw": -62.138671875,
+        "shoulder": -17.841796875,
+        "elbow": -3.515625,
+        "wrist": -60.99609375,
+        "gripper": 5.9765625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:27.465+08:00",
+      "elapsed_seconds": 11.845,
+      "positions": {
+        "base_yaw": 1342,
+        "shoulder": 1846,
+        "elbow": 2008,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "positions_raw": {
+        "base_yaw": 1342,
+        "shoulder": 1846,
+        "elbow": 2008,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "angles_degrees": {
+        "base_yaw": -62.05078125,
+        "shoulder": -17.75390625,
+        "elbow": -3.515625,
+        "wrist": -60.99609375,
+        "gripper": 5.9765625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:27.564+08:00",
+      "elapsed_seconds": 11.944,
+      "positions": {
+        "base_yaw": 1342,
+        "shoulder": 1847,
+        "elbow": 2008,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "positions_raw": {
+        "base_yaw": 1342,
+        "shoulder": 1847,
+        "elbow": 2008,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "angles_degrees": {
+        "base_yaw": -62.05078125,
+        "shoulder": -17.666015625,
+        "elbow": -3.515625,
+        "wrist": -60.99609375,
+        "gripper": 5.9765625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:27.664+08:00",
+      "elapsed_seconds": 12.044,
+      "positions": {
+        "base_yaw": 1338,
+        "shoulder": 1847,
+        "elbow": 2008,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "positions_raw": {
+        "base_yaw": 1338,
+        "shoulder": 1847,
+        "elbow": 2008,
+        "wrist": 1354,
+        "gripper": 1980
+      },
+      "angles_degrees": {
+        "base_yaw": -62.40234375,
+        "shoulder": -17.666015625,
+        "elbow": -3.515625,
+        "wrist": -60.99609375,
+        "gripper": 5.9765625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:27.763+08:00",
+      "elapsed_seconds": 12.143,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 1847,
+        "elbow": 2008,
+        "wrist": 1354,
+        "gripper": 1983
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 1847,
+        "elbow": 2008,
+        "wrist": 1354,
+        "gripper": 1983
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": -17.666015625,
+        "elbow": -3.515625,
+        "wrist": -60.99609375,
+        "gripper": 5.712890625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:27.864+08:00",
+      "elapsed_seconds": 12.244,
+      "positions": {
+        "base_yaw": 1334,
+        "shoulder": 1848,
+        "elbow": 2007,
+        "wrist": 1353,
+        "gripper": 2007
+      },
+      "positions_raw": {
+        "base_yaw": 1334,
+        "shoulder": 1848,
+        "elbow": 2007,
+        "wrist": 1353,
+        "gripper": 2007
+      },
+      "angles_degrees": {
+        "base_yaw": -62.75390625,
+        "shoulder": -17.578125,
+        "elbow": -3.603515625,
+        "wrist": -61.083984375,
+        "gripper": 3.603515625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:27.964+08:00",
+      "elapsed_seconds": 12.344,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2007,
+        "wrist": 1353,
+        "gripper": 2084
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2007,
+        "wrist": 1353,
+        "gripper": 2084
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.578125,
+        "elbow": -3.603515625,
+        "wrist": -61.083984375,
+        "gripper": -3.1640625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:28.065+08:00",
+      "elapsed_seconds": 12.445,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2007,
+        "wrist": 1353,
+        "gripper": 2156
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2007,
+        "wrist": 1353,
+        "gripper": 2156
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.578125,
+        "elbow": -3.603515625,
+        "wrist": -61.083984375,
+        "gripper": -9.4921875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:28.164+08:00",
+      "elapsed_seconds": 12.544,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2007,
+        "wrist": 1353,
+        "gripper": 2170
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2007,
+        "wrist": 1353,
+        "gripper": 2170
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.578125,
+        "elbow": -3.603515625,
+        "wrist": -61.083984375,
+        "gripper": -10.72265625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:28.264+08:00",
+      "elapsed_seconds": 12.644,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2007,
+        "wrist": 1353,
+        "gripper": 2170
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2007,
+        "wrist": 1353,
+        "gripper": 2170
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.578125,
+        "elbow": -3.603515625,
+        "wrist": -61.083984375,
+        "gripper": -10.72265625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:28.364+08:00",
+      "elapsed_seconds": 12.744,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2170
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2170
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.578125,
+        "elbow": -3.69140625,
+        "wrist": -61.171875,
+        "gripper": -10.72265625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:28.464+08:00",
+      "elapsed_seconds": 12.844,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2177
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2177
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.578125,
+        "elbow": -3.69140625,
+        "wrist": -61.171875,
+        "gripper": -11.337890625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:28.564+08:00",
+      "elapsed_seconds": 12.944,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.578125,
+        "elbow": -3.69140625,
+        "wrist": -61.171875,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:28.665+08:00",
+      "elapsed_seconds": 13.045,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.578125,
+        "elbow": -3.69140625,
+        "wrist": -61.171875,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:28.765+08:00",
+      "elapsed_seconds": 13.145,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.578125,
+        "elbow": -3.69140625,
+        "wrist": -61.171875,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:28.864+08:00",
+      "elapsed_seconds": 13.244,
+      "positions": {
+        "base_yaw": 1334,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1334,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.75390625,
+        "shoulder": -17.578125,
+        "elbow": -3.69140625,
+        "wrist": -61.171875,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:28.965+08:00",
+      "elapsed_seconds": 13.345,
+      "positions": {
+        "base_yaw": 1336,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1336,
+        "shoulder": 1848,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.578125,
+        "shoulder": -17.578125,
+        "elbow": -3.69140625,
+        "wrist": -61.171875,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:29.065+08:00",
+      "elapsed_seconds": 13.445,
+      "positions": {
+        "base_yaw": 1335,
+        "shoulder": 1849,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1335,
+        "shoulder": 1849,
+        "elbow": 2006,
+        "wrist": 1352,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.666015625,
+        "shoulder": -17.490234375,
+        "elbow": -3.69140625,
+        "wrist": -61.171875,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:29.165+08:00",
+      "elapsed_seconds": 13.545,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1851,
+        "elbow": 2009,
+        "wrist": 1346,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1851,
+        "elbow": 2009,
+        "wrist": 1346,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -17.314453125,
+        "elbow": -3.427734375,
+        "wrist": -61.69921875,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:29.265+08:00",
+      "elapsed_seconds": 13.645,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1867,
+        "elbow": 2018,
+        "wrist": 1307,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1867,
+        "elbow": 2018,
+        "wrist": 1307,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -15.908203125,
+        "elbow": -2.63671875,
+        "wrist": -65.126953125,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:29.365+08:00",
+      "elapsed_seconds": 13.745,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1907,
+        "elbow": 2037,
+        "wrist": 1272,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1907,
+        "elbow": 2037,
+        "wrist": 1272,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -12.392578125,
+        "elbow": -0.966796875,
+        "wrist": -68.203125,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:29.465+08:00",
+      "elapsed_seconds": 13.845,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 1966,
+        "elbow": 2062,
+        "wrist": 1256,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 1966,
+        "elbow": 2062,
+        "wrist": 1256,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -7.20703125,
+        "elbow": 1.23046875,
+        "wrist": -69.609375,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:29.565+08:00",
+      "elapsed_seconds": 13.945,
+      "positions": {
+        "base_yaw": 1333,
+        "shoulder": 2037,
+        "elbow": 2075,
+        "wrist": 1251,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1333,
+        "shoulder": 2037,
+        "elbow": 2075,
+        "wrist": 1251,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.841796875,
+        "shoulder": -0.966796875,
+        "elbow": 2.373046875,
+        "wrist": -70.048828125,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:29.665+08:00",
+      "elapsed_seconds": 14.045,
+      "positions": {
+        "base_yaw": 1336,
+        "shoulder": 2108,
+        "elbow": 2089,
+        "wrist": 1251,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1336,
+        "shoulder": 2108,
+        "elbow": 2089,
+        "wrist": 1251,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.578125,
+        "shoulder": 5.2734375,
+        "elbow": 3.603515625,
+        "wrist": -70.048828125,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:29.765+08:00",
+      "elapsed_seconds": 14.145,
+      "positions": {
+        "base_yaw": 1341,
+        "shoulder": 2175,
+        "elbow": 2104,
+        "wrist": 1257,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1341,
+        "shoulder": 2175,
+        "elbow": 2104,
+        "wrist": 1257,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.138671875,
+        "shoulder": 11.162109375,
+        "elbow": 4.921875,
+        "wrist": -69.521484375,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:29.865+08:00",
+      "elapsed_seconds": 14.245,
+      "positions": {
+        "base_yaw": 1342,
+        "shoulder": 2213,
+        "elbow": 2107,
+        "wrist": 1254,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1342,
+        "shoulder": 2213,
+        "elbow": 2107,
+        "wrist": 1254,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.05078125,
+        "shoulder": 14.501953125,
+        "elbow": 5.185546875,
+        "wrist": -69.78515625,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:29.966+08:00",
+      "elapsed_seconds": 14.346,
+      "positions": {
+        "base_yaw": 1342,
+        "shoulder": 2226,
+        "elbow": 2105,
+        "wrist": 1251,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1342,
+        "shoulder": 2226,
+        "elbow": 2105,
+        "wrist": 1251,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -62.05078125,
+        "shoulder": 15.64453125,
+        "elbow": 5.009765625,
+        "wrist": -70.048828125,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:30.067+08:00",
+      "elapsed_seconds": 14.446,
+      "positions": {
+        "base_yaw": 1344,
+        "shoulder": 2226,
+        "elbow": 2105,
+        "wrist": 1256,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1344,
+        "shoulder": 2226,
+        "elbow": 2105,
+        "wrist": 1256,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -61.875,
+        "shoulder": 15.64453125,
+        "elbow": 5.009765625,
+        "wrist": -69.609375,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:30.167+08:00",
+      "elapsed_seconds": 14.546,
+      "positions": {
+        "base_yaw": 1349,
+        "shoulder": 2217,
+        "elbow": 2105,
+        "wrist": 1264,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1349,
+        "shoulder": 2217,
+        "elbow": 2105,
+        "wrist": 1264,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -61.435546875,
+        "shoulder": 14.853515625,
+        "elbow": 5.009765625,
+        "wrist": -68.90625,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:30.267+08:00",
+      "elapsed_seconds": 14.646,
+      "positions": {
+        "base_yaw": 1396,
+        "shoulder": 2208,
+        "elbow": 2105,
+        "wrist": 1266,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1396,
+        "shoulder": 2208,
+        "elbow": 2105,
+        "wrist": 1266,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -57.3046875,
+        "shoulder": 14.0625,
+        "elbow": 5.009765625,
+        "wrist": -68.73046875,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:30.367+08:00",
+      "elapsed_seconds": 14.746,
+      "positions": {
+        "base_yaw": 1495,
+        "shoulder": 2208,
+        "elbow": 2107,
+        "wrist": 1267,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1495,
+        "shoulder": 2208,
+        "elbow": 2107,
+        "wrist": 1267,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -48.603515625,
+        "shoulder": 14.0625,
+        "elbow": 5.185546875,
+        "wrist": -68.642578125,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:30.467+08:00",
+      "elapsed_seconds": 14.846,
+      "positions": {
+        "base_yaw": 1592,
+        "shoulder": 2220,
+        "elbow": 2105,
+        "wrist": 1265,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1592,
+        "shoulder": 2220,
+        "elbow": 2105,
+        "wrist": 1265,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -40.078125,
+        "shoulder": 15.1171875,
+        "elbow": 5.009765625,
+        "wrist": -68.818359375,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:30.567+08:00",
+      "elapsed_seconds": 14.946,
+      "positions": {
+        "base_yaw": 1670,
+        "shoulder": 2223,
+        "elbow": 2105,
+        "wrist": 1265,
+        "gripper": 2182
+      },
+      "positions_raw": {
+        "base_yaw": 1670,
+        "shoulder": 2223,
+        "elbow": 2105,
+        "wrist": 1265,
+        "gripper": 2182
+      },
+      "angles_degrees": {
+        "base_yaw": -33.22265625,
+        "shoulder": 15.380859375,
+        "elbow": 5.009765625,
+        "wrist": -68.818359375,
+        "gripper": -11.77734375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:30.667+08:00",
+      "elapsed_seconds": 15.046,
+      "positions": {
+        "base_yaw": 1739,
+        "shoulder": 2224,
+        "elbow": 2105,
+        "wrist": 1266,
+        "gripper": 2181
+      },
+      "positions_raw": {
+        "base_yaw": 1739,
+        "shoulder": 2224,
+        "elbow": 2105,
+        "wrist": 1266,
+        "gripper": 2181
+      },
+      "angles_degrees": {
+        "base_yaw": -27.158203125,
+        "shoulder": 15.46875,
+        "elbow": 5.009765625,
+        "wrist": -68.73046875,
+        "gripper": -11.689453125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:30.767+08:00",
+      "elapsed_seconds": 15.146,
+      "positions": {
+        "base_yaw": 1785,
+        "shoulder": 2224,
+        "elbow": 2105,
+        "wrist": 1266,
+        "gripper": 2181
+      },
+      "positions_raw": {
+        "base_yaw": 1785,
+        "shoulder": 2224,
+        "elbow": 2105,
+        "wrist": 1266,
+        "gripper": 2181
+      },
+      "angles_degrees": {
+        "base_yaw": -23.115234375,
+        "shoulder": 15.46875,
+        "elbow": 5.009765625,
+        "wrist": -68.73046875,
+        "gripper": -11.689453125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:30.867+08:00",
+      "elapsed_seconds": 15.246,
+      "positions": {
+        "base_yaw": 1814,
+        "shoulder": 2225,
+        "elbow": 2102,
+        "wrist": 1265,
+        "gripper": 2181
+      },
+      "positions_raw": {
+        "base_yaw": 1814,
+        "shoulder": 2225,
+        "elbow": 2102,
+        "wrist": 1265,
+        "gripper": 2181
+      },
+      "angles_degrees": {
+        "base_yaw": -20.56640625,
+        "shoulder": 15.556640625,
+        "elbow": 4.74609375,
+        "wrist": -68.818359375,
+        "gripper": -11.689453125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:30.967+08:00",
+      "elapsed_seconds": 15.346,
+      "positions": {
+        "base_yaw": 1840,
+        "shoulder": 2225,
+        "elbow": 2104,
+        "wrist": 1265,
+        "gripper": 2181
+      },
+      "positions_raw": {
+        "base_yaw": 1840,
+        "shoulder": 2225,
+        "elbow": 2104,
+        "wrist": 1265,
+        "gripper": 2181
+      },
+      "angles_degrees": {
+        "base_yaw": -18.28125,
+        "shoulder": 15.556640625,
+        "elbow": 4.921875,
+        "wrist": -68.818359375,
+        "gripper": -11.689453125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:31.068+08:00",
+      "elapsed_seconds": 15.447,
+      "positions": {
+        "base_yaw": 1863,
+        "shoulder": 2225,
+        "elbow": 2104,
+        "wrist": 1266,
+        "gripper": 2181
+      },
+      "positions_raw": {
+        "base_yaw": 1863,
+        "shoulder": 2225,
+        "elbow": 2104,
+        "wrist": 1266,
+        "gripper": 2181
+      },
+      "angles_degrees": {
+        "base_yaw": -16.259765625,
+        "shoulder": 15.556640625,
+        "elbow": 4.921875,
+        "wrist": -68.73046875,
+        "gripper": -11.689453125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:31.168+08:00",
+      "elapsed_seconds": 15.547,
+      "positions": {
+        "base_yaw": 1881,
+        "shoulder": 2220,
+        "elbow": 2104,
+        "wrist": 1266,
+        "gripper": 2181
+      },
+      "positions_raw": {
+        "base_yaw": 1881,
+        "shoulder": 2220,
+        "elbow": 2104,
+        "wrist": 1266,
+        "gripper": 2181
+      },
+      "angles_degrees": {
+        "base_yaw": -14.677734375,
+        "shoulder": 15.1171875,
+        "elbow": 4.921875,
+        "wrist": -68.73046875,
+        "gripper": -11.689453125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:31.268+08:00",
+      "elapsed_seconds": 15.647,
+      "positions": {
+        "base_yaw": 1892,
+        "shoulder": 2209,
+        "elbow": 2099,
+        "wrist": 1268,
+        "gripper": 2181
+      },
+      "positions_raw": {
+        "base_yaw": 1892,
+        "shoulder": 2209,
+        "elbow": 2099,
+        "wrist": 1268,
+        "gripper": 2181
+      },
+      "angles_degrees": {
+        "base_yaw": -13.7109375,
+        "shoulder": 14.150390625,
+        "elbow": 4.482421875,
+        "wrist": -68.5546875,
+        "gripper": -11.689453125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:31.368+08:00",
+      "elapsed_seconds": 15.747,
+      "positions": {
+        "base_yaw": 1896,
+        "shoulder": 2203,
+        "elbow": 2094,
+        "wrist": 1269,
+        "gripper": 2181
+      },
+      "positions_raw": {
+        "base_yaw": 1896,
+        "shoulder": 2203,
+        "elbow": 2094,
+        "wrist": 1269,
+        "gripper": 2181
+      },
+      "angles_degrees": {
+        "base_yaw": -13.359375,
+        "shoulder": 13.623046875,
+        "elbow": 4.04296875,
+        "wrist": -68.466796875,
+        "gripper": -11.689453125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:31.468+08:00",
+      "elapsed_seconds": 15.847,
+      "positions": {
+        "base_yaw": 1896,
+        "shoulder": 2188,
+        "elbow": 2091,
+        "wrist": 1303,
+        "gripper": 2181
+      },
+      "positions_raw": {
+        "base_yaw": 1896,
+        "shoulder": 2188,
+        "elbow": 2091,
+        "wrist": 1303,
+        "gripper": 2181
+      },
+      "angles_degrees": {
+        "base_yaw": -13.359375,
+        "shoulder": 12.3046875,
+        "elbow": 3.779296875,
+        "wrist": -65.478515625,
+        "gripper": -11.689453125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:31.568+08:00",
+      "elapsed_seconds": 15.947,
+      "positions": {
+        "base_yaw": 1896,
+        "shoulder": 2185,
+        "elbow": 2077,
+        "wrist": 1418,
+        "gripper": 2181
+      },
+      "positions_raw": {
+        "base_yaw": 1896,
+        "shoulder": 2185,
+        "elbow": 2077,
+        "wrist": 1418,
+        "gripper": 2181
+      },
+      "angles_degrees": {
+        "base_yaw": -13.359375,
+        "shoulder": 12.041015625,
+        "elbow": 2.548828125,
+        "wrist": -55.37109375,
+        "gripper": -11.689453125
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:31.671+08:00",
+      "elapsed_seconds": 16.05,
+      "positions": {
+        "base_yaw": 1896,
+        "shoulder": 2176,
+        "elbow": 1991,
+        "wrist": 1544,
+        "gripper": 2180
+      },
+      "positions_raw": {
+        "base_yaw": 1896,
+        "shoulder": 2176,
+        "elbow": 1991,
+        "wrist": 1544,
+        "gripper": 2180
+      },
+      "angles_degrees": {
+        "base_yaw": -13.359375,
+        "shoulder": 11.25,
+        "elbow": -5.009765625,
+        "wrist": -44.296875,
+        "gripper": -11.6015625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:31.770+08:00",
+      "elapsed_seconds": 16.149,
+      "positions": {
+        "base_yaw": 1896,
+        "shoulder": 2176,
+        "elbow": 1879,
+        "wrist": 1645,
+        "gripper": 2180
+      },
+      "positions_raw": {
+        "base_yaw": 1896,
+        "shoulder": 2176,
+        "elbow": 1879,
+        "wrist": 1645,
+        "gripper": 2180
+      },
+      "angles_degrees": {
+        "base_yaw": -13.359375,
+        "shoulder": 11.25,
+        "elbow": -14.853515625,
+        "wrist": -35.419921875,
+        "gripper": -11.6015625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:31.873+08:00",
+      "elapsed_seconds": 16.252,
+      "positions": {
+        "base_yaw": 1908,
+        "shoulder": 2182,
+        "elbow": 1765,
+        "wrist": 1749,
+        "gripper": 2180
+      },
+      "positions_raw": {
+        "base_yaw": 1908,
+        "shoulder": 2182,
+        "elbow": 1765,
+        "wrist": 1749,
+        "gripper": 2180
+      },
+      "angles_degrees": {
+        "base_yaw": -12.3046875,
+        "shoulder": 11.77734375,
+        "elbow": -24.873046875,
+        "wrist": -26.279296875,
+        "gripper": -11.6015625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:31.970+08:00",
+      "elapsed_seconds": 16.349,
+      "positions": {
+        "base_yaw": 1963,
+        "shoulder": 2176,
+        "elbow": 1701,
+        "wrist": 1881,
+        "gripper": 2180
+      },
+      "positions_raw": {
+        "base_yaw": 1963,
+        "shoulder": 2176,
+        "elbow": 1701,
+        "wrist": 1881,
+        "gripper": 2180
+      },
+      "angles_degrees": {
+        "base_yaw": -7.470703125,
+        "shoulder": 11.25,
+        "elbow": -30.498046875,
+        "wrist": -14.677734375,
+        "gripper": -11.6015625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:32.077+08:00",
+      "elapsed_seconds": 16.456,
+      "positions": {
+        "base_yaw": 2008,
+        "shoulder": 2174,
+        "elbow": 1647,
+        "wrist": 2021,
+        "gripper": 2180
+      },
+      "positions_raw": {
+        "base_yaw": 2008,
+        "shoulder": 2174,
+        "elbow": 1647,
+        "wrist": 2021,
+        "gripper": 2180
+      },
+      "angles_degrees": {
+        "base_yaw": -3.515625,
+        "shoulder": 11.07421875,
+        "elbow": -35.244140625,
+        "wrist": -2.373046875,
+        "gripper": -11.6015625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:32.174+08:00",
+      "elapsed_seconds": 16.553,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 2155,
+        "elbow": 1600,
+        "wrist": 2115,
+        "gripper": 2180
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 2155,
+        "elbow": 1600,
+        "wrist": 2115,
+        "gripper": 2180
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": 9.404296875,
+        "elbow": -39.375,
+        "wrist": 5.888671875,
+        "gripper": -11.6015625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:32.273+08:00",
+      "elapsed_seconds": 16.652,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 2083,
+        "elbow": 1596,
+        "wrist": 2180,
+        "gripper": 2180
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 2083,
+        "elbow": 1596,
+        "wrist": 2180,
+        "gripper": 2180
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": 3.076171875,
+        "elbow": -39.7265625,
+        "wrist": 11.6015625,
+        "gripper": -11.6015625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:32.372+08:00",
+      "elapsed_seconds": 16.751,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1990,
+        "elbow": 1600,
+        "wrist": 2212,
+        "gripper": 2180
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1990,
+        "elbow": 1600,
+        "wrist": 2212,
+        "gripper": 2180
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -5.09765625,
+        "elbow": -39.375,
+        "wrist": 14.4140625,
+        "gripper": -11.6015625
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:32.472+08:00",
+      "elapsed_seconds": 16.851,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1927,
+        "elbow": 1606,
+        "wrist": 2242,
+        "gripper": 2174
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1927,
+        "elbow": 1606,
+        "wrist": 2242,
+        "gripper": 2174
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -10.634765625,
+        "elbow": -38.84765625,
+        "wrist": 17.05078125,
+        "gripper": -11.07421875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:32.572+08:00",
+      "elapsed_seconds": 16.951,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1903,
+        "elbow": 1605,
+        "wrist": 2296,
+        "gripper": 2172
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1903,
+        "elbow": 1605,
+        "wrist": 2296,
+        "gripper": 2172
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -12.744140625,
+        "elbow": -38.935546875,
+        "wrist": 21.796875,
+        "gripper": -10.8984375
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:32.673+08:00",
+      "elapsed_seconds": 17.052,
+      "positions": {
+        "base_yaw": 2019,
+        "shoulder": 1888,
+        "elbow": 1604,
+        "wrist": 2363,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2019,
+        "shoulder": 1888,
+        "elbow": 1604,
+        "wrist": 2363,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.548828125,
+        "shoulder": -14.0625,
+        "elbow": -39.0234375,
+        "wrist": 27.685546875,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:32.772+08:00",
+      "elapsed_seconds": 17.151,
+      "positions": {
+        "base_yaw": 2019,
+        "shoulder": 1841,
+        "elbow": 1612,
+        "wrist": 2429,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2019,
+        "shoulder": 1841,
+        "elbow": 1612,
+        "wrist": 2429,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.548828125,
+        "shoulder": -18.193359375,
+        "elbow": -38.3203125,
+        "wrist": 33.486328125,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:32.871+08:00",
+      "elapsed_seconds": 17.25,
+      "positions": {
+        "base_yaw": 2019,
+        "shoulder": 1803,
+        "elbow": 1653,
+        "wrist": 2463,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2019,
+        "shoulder": 1803,
+        "elbow": 1653,
+        "wrist": 2463,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.548828125,
+        "shoulder": -21.533203125,
+        "elbow": -34.716796875,
+        "wrist": 36.474609375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:32.972+08:00",
+      "elapsed_seconds": 17.351,
+      "positions": {
+        "base_yaw": 2019,
+        "shoulder": 1750,
+        "elbow": 1694,
+        "wrist": 2468,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2019,
+        "shoulder": 1750,
+        "elbow": 1694,
+        "wrist": 2468,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.548828125,
+        "shoulder": -26.19140625,
+        "elbow": -31.11328125,
+        "wrist": 36.9140625,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:33.072+08:00",
+      "elapsed_seconds": 17.451,
+      "positions": {
+        "base_yaw": 2019,
+        "shoulder": 1666,
+        "elbow": 1732,
+        "wrist": 2472,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2019,
+        "shoulder": 1666,
+        "elbow": 1732,
+        "wrist": 2472,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.548828125,
+        "shoulder": -33.57421875,
+        "elbow": -27.7734375,
+        "wrist": 37.265625,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:33.170+08:00",
+      "elapsed_seconds": 17.549,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1622,
+        "elbow": 1795,
+        "wrist": 2500,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1622,
+        "elbow": 1795,
+        "wrist": 2500,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -37.44140625,
+        "elbow": -22.236328125,
+        "wrist": 39.7265625,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:33.269+08:00",
+      "elapsed_seconds": 17.648,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1582,
+        "elbow": 1846,
+        "wrist": 2526,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1582,
+        "elbow": 1846,
+        "wrist": 2526,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -40.95703125,
+        "elbow": -17.75390625,
+        "wrist": 42.01171875,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:33.369+08:00",
+      "elapsed_seconds": 17.748,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1545,
+        "elbow": 1858,
+        "wrist": 2551,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1545,
+        "elbow": 1858,
+        "wrist": 2551,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.208984375,
+        "elbow": -16.69921875,
+        "wrist": 44.208984375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:33.469+08:00",
+      "elapsed_seconds": 17.848,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1538,
+        "elbow": 1858,
+        "wrist": 2566,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1538,
+        "elbow": 1858,
+        "wrist": 2566,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.82421875,
+        "elbow": -16.69921875,
+        "wrist": 45.52734375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:33.569+08:00",
+      "elapsed_seconds": 17.948,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:33.669+08:00",
+      "elapsed_seconds": 18.048,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:33.769+08:00",
+      "elapsed_seconds": 18.148,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:33.869+08:00",
+      "elapsed_seconds": 18.248,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:33.969+08:00",
+      "elapsed_seconds": 18.348,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:34.070+08:00",
+      "elapsed_seconds": 18.449,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:34.169+08:00",
+      "elapsed_seconds": 18.548,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:34.269+08:00",
+      "elapsed_seconds": 18.648,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:34.369+08:00",
+      "elapsed_seconds": 18.748,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:34.469+08:00",
+      "elapsed_seconds": 18.848,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:34.569+08:00",
+      "elapsed_seconds": 18.948,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:34.670+08:00",
+      "elapsed_seconds": 19.049,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:34.770+08:00",
+      "elapsed_seconds": 19.149,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:34.870+08:00",
+      "elapsed_seconds": 19.249,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:34.970+08:00",
+      "elapsed_seconds": 19.349,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:35.070+08:00",
+      "elapsed_seconds": 19.449,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:35.170+08:00",
+      "elapsed_seconds": 19.549,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:35.270+08:00",
+      "elapsed_seconds": 19.649,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:35.370+08:00",
+      "elapsed_seconds": 19.749,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:35.470+08:00",
+      "elapsed_seconds": 19.849,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:35.570+08:00",
+      "elapsed_seconds": 19.949,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:35.670+08:00",
+      "elapsed_seconds": 20.049,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:35.770+08:00",
+      "elapsed_seconds": 20.149,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:35.870+08:00",
+      "elapsed_seconds": 20.249,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:35.970+08:00",
+      "elapsed_seconds": 20.349,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:36.070+08:00",
+      "elapsed_seconds": 20.449,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:36.171+08:00",
+      "elapsed_seconds": 20.55,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:36.271+08:00",
+      "elapsed_seconds": 20.65,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:36.371+08:00",
+      "elapsed_seconds": 20.75,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:36.471+08:00",
+      "elapsed_seconds": 20.85,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:36.571+08:00",
+      "elapsed_seconds": 20.95,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:36.671+08:00",
+      "elapsed_seconds": 21.05,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:36.774+08:00",
+      "elapsed_seconds": 21.154,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:36.874+08:00",
+      "elapsed_seconds": 21.253,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:37.001+08:00",
+      "elapsed_seconds": 21.381,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:37.119+08:00",
+      "elapsed_seconds": 21.499,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:37.231+08:00",
+      "elapsed_seconds": 21.611,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:37.343+08:00",
+      "elapsed_seconds": 21.722,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:37.433+08:00",
+      "elapsed_seconds": 21.812,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:37.534+08:00",
+      "elapsed_seconds": 21.913,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:37.634+08:00",
+      "elapsed_seconds": 22.014,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:37.734+08:00",
+      "elapsed_seconds": 22.114,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    },
+    {
+      "timestamp": "2026-10-08T10:18:37.834+08:00",
+      "elapsed_seconds": 22.214,
+      "positions": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "positions_raw": {
+        "base_yaw": 2018,
+        "shoulder": 1537,
+        "elbow": 1858,
+        "wrist": 2567,
+        "gripper": 2171
+      },
+      "angles_degrees": {
+        "base_yaw": -2.63671875,
+        "shoulder": -44.912109375,
+        "elbow": -16.69921875,
+        "wrist": 45.615234375,
+        "gripper": -10.810546875
+      },
+      "duration_seconds": 0.1
+    }
+  ]
+}

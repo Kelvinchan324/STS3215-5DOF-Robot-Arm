@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Robot Arm · 3D Pose</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<header><div><span class="eyebrow">STS3215 / KINEMATICS LAB</span><h1>Robot arm in space</h1></div><span id="mode" class="badge">Simulation</span></header>
+<main>
+<section class="viewport"><div class="viewbar"><span>BASE FRAME · MILLIMETRES</span><button id="resetView">Reset view</button></div><canvas id="scene" aria-label="Interactive 3D arm skeleton. Drag to orbit and scroll to zoom."></canvas><div class="hint">Drag to orbit · Scroll to zoom · Red X / Green Y / Blue Z</div><div class="readouts"><div><small>X</small><strong id="x">—</strong></div><div><small>Y</small><strong id="y">—</strong></div><div><small>Z ↑</small><strong id="z">—</strong></div></div><p id="pointLabel">J5 wrist reference</p></section>
+<aside><h2>Joint angles</h2><p class="muted">Angles relative to the CAD home pose. Link geometry follows the extracted joint axes.</p><div id="joints"></div><div class="actions"><button id="home">CAD home</button><button id="read">Read motors</button></div><label class="live"><input id="live" type="checkbox"> Follow motors every 0.5 seconds</label><p id="status" role="status">Ready for simulation.</p><details><summary>Gripper centre & geometry</summary><p>The exact gripper centre is unmeasured. To preview a tool extension, set an assumed distance along the J5 roll axis.</p><label>Assumed extension (mm)<input id="extension" type="number" value="0" min="0" max="250" step="1"></label><p id="lengths"></p><p>J4–J5 reference separation is 77.3 mm; their axes intersect. The skeleton connects reference points, rather than depicting solid link shapes.</p><p>Saved encoder homes must match the CAD assembly pose. ID 5 is modelled as wrist roll.</p></details></aside>
+</main><script type="module" src="app.js"></script>
+</body></html>
