@@ -63,11 +63,6 @@ def enable_all_torque(packet_handler):
         raise RuntimeError("Could not enable all servos: " + "; ".join(failures))
 
 
-def wait_for_servo_or_estop(packet_handler, servo_id, terminal):
-    """Wait for one move to finish, or release all torque when Space is pressed."""
-    return wait_for_servos_or_estop(packet_handler, (servo_id,), terminal)
-
-
 def wait_for_servos_or_estop(packet_handler, servo_ids, terminal):
     """Wait until every move finishes, or release torque when Space is pressed."""
     while True:
@@ -104,40 +99,6 @@ def read_all(packet_handler):
         name: read_servo(packet_handler, settings.SERVO_IDS[name])
         for name in settings.JOINT_NAMES
     }
-
-
-def joint_name_for_id(servo_id):
-    """Return the configured joint name for a servo ID, or reject unknown IDs."""
-    for name, configured_id in settings.SERVO_IDS.items():
-        if configured_id == servo_id:
-            return name
-    valid_ids = ", ".join(str(value) for value in settings.SERVO_IDS.values())
-    raise ValueError(f"Servo ID {servo_id} is not configured; use one of: {valid_ids}")
-
-
-def move_servo(packet_handler, servo_id, position, speed=None, acceleration=None):
-    if not 0 <= position <= 4095:
-        raise ValueError("Position must be between 0 and 4095")
-    if speed is None:
-        speed = settings.MOVE_SPEED
-    if acceleration is None:
-        acceleration = settings.MOVE_ACCELERATION
-    result, error = packet_handler.WritePosEx(
-        servo_id, position, speed, acceleration
-    )
-    check_result(packet_handler, result, error, f"Move servo {servo_id}")
-
-
-def move_all(packet_handler, positions, speed=None, acceleration=None):
-    """Send one position command to each named joint in settings order."""
-    for name in settings.JOINT_NAMES:
-        move_servo(
-            packet_handler,
-            settings.SERVO_IDS[name],
-            int(positions[name]),
-            speed=speed,
-            acceleration=acceleration,
-        )
 
 
 def move_all_sync(packet_handler, positions, speed=None, acceleration=None):
@@ -212,10 +173,6 @@ def position_to_angle(name, position):
         * 360.0
         / (settings.DIRECTIONS[name] * settings.TICKS_PER_REVOLUTION)
     )
-
-
-def angles_to_positions(angles):
-    return {name: angle_to_position(name, angles[name]) for name in settings.JOINT_NAMES}
 
 
 def positions_to_angles(positions):

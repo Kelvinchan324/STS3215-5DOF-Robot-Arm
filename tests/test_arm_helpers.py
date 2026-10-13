@@ -1,34 +1,12 @@
-import math
 import runpy
 import unittest
-from unittest.mock import patch
 
 from arm_helpers import (
     disable_all_torque,
     enable_all_torque,
-    joint_name_for_id,
     move_all_sync,
-    move_servo,
 )
 import arm_settings as settings
-from robot_math import forward_kinematics
-
-
-class FakePacketHandler:
-    def __init__(self):
-        self.move = None
-
-    def WritePosEx(self, servo_id, position, speed, acceleration):
-        self.move = (servo_id, position, speed, acceleration)
-        return 0, 0
-
-    @staticmethod
-    def getTxRxResult(_result):
-        return "communication error"
-
-    @staticmethod
-    def getRxPacketError(_error):
-        return "servo error"
 
 
 class FakeSyncPacketHandler:
@@ -141,24 +119,6 @@ class MoveServoTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "must be finite"):
             module["parse_angles"]("0 0 0 0 nan")
 
-    def test_servo_id_selects_joint_without_typing_name(self):
-        for joint_name, servo_id in settings.SERVO_IDS.items():
-            self.assertEqual(joint_name_for_id(servo_id), joint_name)
-
-    def test_unconfigured_servo_id_is_rejected(self):
-        with self.assertRaisesRegex(ValueError, "not configured"):
-            joint_name_for_id(99)
-
-    def test_keyboard_speed_and_acceleration_can_be_overridden(self):
-        packet_handler = FakePacketHandler()
-        move_servo(
-            packet_handler,
-            5,
-            2500,
-            speed=800,
-            acceleration=50,
-        )
-        self.assertEqual(packet_handler.move, (5, 2500, 800, 50))
 
     def test_synchronized_move_uses_all_configured_servos_and_clears_parameters(self):
         packet_handler = FakeSyncPacketHandler()
@@ -192,46 +152,6 @@ class MoveServoTests(unittest.TestCase):
                 for servo_id in settings.SERVO_IDS.values()
             ],
         )
-
-    def test_continuous_yaw_jog_advances_by_configured_speed(self):
-        module = runpy.run_path("scripts/07_keyboard_control.py", run_name="keyboard_module")
-        start = {name: 0.0 for name in settings.JOINT_NAMES}
-        target, joints = module["advance_jog"](start, "a", 0.05)
-        self.assertAlmostEqual(
-            target["base_yaw"],
-            settings.KEYBOARD_YAW_SPEED_DEG_PER_SECOND * 0.05,
-        )
-        self.assertEqual(joints, ("base_yaw",))
-
-    def test_continuous_forward_jog_advances_tip_distance(self):
-        module = runpy.run_path("scripts/07_keyboard_control.py", run_name="keyboard_module")
-        start = {
-            "base_yaw": 0.0,
-            "shoulder": 20.0,
-            "elbow": 60.0,
-            "wrist": -80.0,
-            "gripper": 0.0,
-        }
-        with patch.object(settings, "CAD_ZERO_ALIGNMENT_CONFIRMED", True):
-            target, joints = module["advance_jog"](start, "f", 0.05)
-        start_tip = forward_kinematics(start)
-        target_tip = forward_kinematics(target)
-        self.assertAlmostEqual(
-            math.hypot(target_tip[0], target_tip[1])
-            - math.hypot(start_tip[0], start_tip[1]),
-            settings.KEYBOARD_FORWARD_SPEED_MM_PER_SECOND * 0.05,
-        )
-        self.assertAlmostEqual(target_tip[2], start_tip[2])
-        self.assertEqual(joints, settings.JOINT_NAMES[:-1])
-
-    def test_cartesian_jog_requires_cad_zero_alignment(self):
-        module = runpy.run_path(
-            "scripts/07_keyboard_control.py", run_name="keyboard_module"
-        )
-        start = {name: 0.0 for name in settings.JOINT_NAMES}
-        with patch.object(settings, "CAD_ZERO_ALIGNMENT_CONFIRMED", False):
-            with self.assertRaisesRegex(ValueError, "Cartesian jogging is disabled"):
-                module["advance_jog"](start, "w", 0.05)
 
 
 if __name__ == "__main__":

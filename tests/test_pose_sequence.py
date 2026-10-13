@@ -209,7 +209,7 @@ class PoseSequenceTests(unittest.TestCase):
 
     def test_regular_motion_picker_does_not_list_pose_sequences(self):
         motion_module = runpy.run_path(
-            "scripts/timestamp_player.py", run_name="motion_filter_test"
+            "scripts/05_timestamp_motion.py", run_name="motion_filter_test"
         )
         with tempfile.TemporaryDirectory() as directory:
             folder = Path(directory)
