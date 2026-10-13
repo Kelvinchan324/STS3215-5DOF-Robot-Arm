@@ -107,7 +107,7 @@ a synchronized move after confirmation.
 python scripts/03_move_joint_angle.py
 ```
 
-### Timestamp motion — `05_timestamp_motion.py`
+### Timestamp motion — `04_timestamp_motion.py`
 
 Choose **1** to record a motion by moving the supported arm by hand with torque
 released. The program records positions, angles and timestamps every **0.1
@@ -116,10 +116,10 @@ Choose **2** to replay a recording using its saved raw positions and timing.
 Use a new name for each recording.
 
 ```sh
-python scripts/05_timestamp_motion.py
+python scripts/04_timestamp_motion.py
 ```
 
-### Waypoint sequence — `06_waypoint_sequence.py`
+### Waypoint sequence — `05_waypoint_sequence.py`
 
 Choose **1** to enter a sequence of poses using either raw ticks or joint
 angles. Enter at least two poses, one per line. Type `play` to save and play
@@ -128,12 +128,11 @@ sequence. Files are stored in `motions/`; angle inputs use the current calibrati
 when played.
 
 ```sh
-python scripts/06_waypoint_sequence.py
+python scripts/05_waypoint_sequence.py
 ```
 
 Timestamp motion captures movement over time; waypoint sequences follow a
-list of poses you enter. The script numbers are kept from the original course,
-so there is no script 04.
+list of poses you enter.
 
 ## 4. Explore the 3D simulation
 
