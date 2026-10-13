@@ -146,7 +146,9 @@ connect the equations to the arm's movement:
 - **Inverse kinematics:** enter an XYZ target or pick a point in 3D; the solver
   tries to reach it within the joint limits.
 - **Keyboard control:** W/S moves up/down, Left/Right changes yaw, Up/Down
-  moves forward/back, A/D adjusts pitch, and J/L opens/closes the gripper.
+  moves forward/back, A/D adjusts pitch, and holding J/L slowly opens/closes
+  the gripper. Release J/L to stop changing its angle; full travel takes about
+  six seconds at the default rate, with lower hardware limits respected.
   Enable keyboard control first; translation holds the tool pitch.
 
 ### Run your cloned simulation locally
