@@ -1,4 +1,4 @@
-# STS3215 Robot Arm — Raspberry Pi Student Guide
+# STS3215 Robot Arm — Raspberry Pi Guide
 
 Use these five Python programs to read, move and record a real robot arm with
 **STS3215 servos and a Waveshare ESP32 controller** connected to a Raspberry Pi by USB.
